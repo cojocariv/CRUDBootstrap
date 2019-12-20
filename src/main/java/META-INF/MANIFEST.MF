@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: com.example56.example56.Example56Application
+
